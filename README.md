@@ -17,7 +17,7 @@
 
 ### 参考如下的文章
 
-* [什么是SVN ][https://www.cnblogs.com/zhoumiao/p/5459552.html]
+* [什么是SVN ](https://www.cnblogs.com/zhoumiao/p/5459552.html)
     
 * [TortoiseSVN 设置中文语言包](https://blog.csdn.net/csnd_ayo/article/details/72589497)
     
