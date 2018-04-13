@@ -1,10 +1,10 @@
 ## 快速掌握 SVN 
-```s
+```
 
 * 1. 下载安装 SVN 
 
     [https://tortoisesvn.net/downloads.zh.html]
-
+   
 * 2. 到这个地方 阿里SVN 注册一个账号
 
     [http://www.alisvn.com/]
@@ -15,3 +15,14 @@
 
 ```
 ## 给个小星星 谢谢！
+
+
+### 参考如下的文章
+```
+    什么是SVN 
+        [https://www.cnblogs.com/zhoumiao/p/5459552.html]
+    TortoiseSVN 设置中文语言包 
+        [https://blog.csdn.net/csnd_ayo/article/details/72589497]
+    SVN 中文文档
+        [http://svndoc.iusesvn.com/tsvn/]
+```
