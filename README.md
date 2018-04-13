@@ -1,5 +1,5 @@
 ## 快速掌握 SVN 
-```
+
 
 * 1. 下载安装 SVN 
 
@@ -11,16 +11,15 @@
 
 * 4. 恭喜你学会了使用 SVN ！！
 
-```
+
 ## 给个小星星 谢谢！
 
 
 ### 参考如下的文章
-```
+
     [什么是SVN ][https://www.cnblogs.com/zhoumiao/p/5459552.html]
 
     [TortoiseSVN 设置中文语言包](https://blog.csdn.net/csnd_ayo/article/details/72589497)
     
     [SVN 中文文档](http://svndoc.iusesvn.com/tsvn/)
         
-```
